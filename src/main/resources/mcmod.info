@@ -1,0 +1,16 @@
+[
+{
+  "modid": "villageinfo",
+  "name": "Village Info",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TonyMacDonald1995"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
